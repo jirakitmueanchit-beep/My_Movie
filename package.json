@@ -1,0 +1,22 @@
+{
+  "name": "movie-watchlist",
+  "version": "1.0.0",
+  "description": "Full-stack Movie Watchlist REST API mini project using Node.js and Express.js",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node --watch server/server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api",
+    "crud",
+    "full-stack"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
